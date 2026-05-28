@@ -329,6 +329,8 @@ Sandboxes, routers, browser/terminal automation, and extension tools. Sorted by 
 
 - **[claude-code-router](https://github.com/musistudio/claude-code-router)** `⭐ 34.4k` — Use Claude Code as a foundation while routing to alternative providers/endpoints.
 
+- **[A3M Router](https://github.com/Das-rebel/a3m-router)** `⭐ 5` — 🥇 #1 on RouterArena. Open-source LLM router with parallel multi-LLM execution across 47+ providers, semantic cache, budget enforcement, and circuit breakers. `npm i -g adaptive-memory-multi-model-router`. MIT.
+
 - **[agent-browser](https://github.com/vercel-labs/agent-browser)** `⭐ 34.2k` — Headless browser automation CLI for agents (useful as a tool plugin for coding agents).
 
 - **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** `⭐ 20.6k` `[NVIDIA]` — CLI tool for securely provisioning and managing sandboxed OpenClaw agent environments; enforces network, filesystem, and process-level security policies via OpenShell runtime. Apache-2.0.
